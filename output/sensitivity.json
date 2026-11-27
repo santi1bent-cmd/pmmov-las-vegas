@@ -1,0 +1,56 @@
+{
+  "WastewaterSCAN": {
+    "this analysis": {
+      "dR admissions, full window": -0.0012569461923540581,
+      "dR ED share, same weeks": 0.05685177252708451
+    },
+    "CDC rounded field only": {
+      "dR admissions, full window": -0.027584958091636858,
+      "dR ED share, same weeks": 0.055897573854458926
+    },
+    "Justen smoothing only": {
+      "dR admissions, full window": -0.051326663185834676,
+      "dR ED share, same weeks": 0.017329479118975977
+    },
+    "Justen smoothing + CDC rounded field": {
+      "dR admissions, full window": -0.05166266503595518,
+      "dR ED share, same weeks": 0.017329479118975977
+    },
+    "raw R vs admissions, full window: filtered / gap weeks left in": [
+      0.9111390736679814,
+      0.45170766453459466
+    ],
+    "non-detects at LOD: dR adm full / adm same weeks / ED same weeks": [
+      -0.0011331560370463345,
+      -0.006398523424484659,
+      0.05685177252708451
+    ]
+  },
+  "CDC_Verily": {
+    "this analysis": {
+      "dR admissions, full window": 0.025353687764534283,
+      "dR ED share, same weeks": 0.03311094739085774
+    },
+    "CDC rounded field only": {
+      "dR admissions, full window": 0.02569983083318461,
+      "dR ED share, same weeks": 0.03311094739085774
+    },
+    "Justen smoothing only": {
+      "dR admissions, full window": -0.03092765495742622,
+      "dR ED share, same weeks": 0.03459352712477681
+    },
+    "Justen smoothing + CDC rounded field": {
+      "dR admissions, full window": -0.03184208844675129,
+      "dR ED share, same weeks": 0.03459352712477681
+    },
+    "raw R vs admissions, full window: filtered / gap weeks left in": [
+      0.8336429993223122,
+      0.3222508127214355
+    ],
+    "non-detects at LOD: dR adm full / adm same weeks / ED same weeks": [
+      0.025307092427498512,
+      0.0019762845849803368,
+      0.03311094739085774
+    ]
+  }
+}

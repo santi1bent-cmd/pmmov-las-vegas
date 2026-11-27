@@ -1,0 +1,86 @@
+{
+  "SARS-CoV-2": {
+    "paired_days": 238,
+    "sd_raw": 0.3439548768492421,
+    "sd_divided": 0.35130590348655527,
+    "sd_ratio": 1.0213720668962494,
+    "sd_ratio_ci": [
+      0.9546872944214312,
+      1.122293521637901
+    ],
+    "loa_fold_raw": 22.299910357501624,
+    "loa_fold_divided": 23.829731098297728,
+    "median_fold_disagreement": 1.622110097160432,
+    "pearson_r_gap_vs_pmmov_gap": 0.3859621829390994,
+    "pearson_p": 7.117029569737679e-10,
+    "shared_part_cancelled": 0.31816080614017556,
+    "pmmov_noise_added": 0.36136170517609256,
+    "best_possible_removal_r2": 0.14896680665911483
+  },
+  "SARS-CoV-2 (CDC rounded field)": {
+    "paired_days": 236,
+    "sd_raw": 0.3437337284428318,
+    "sd_divided": 0.343826878613827,
+    "sd_ratio": 1.0002709951432964,
+    "sd_ratio_ci": [
+      0.9306991523338368,
+      1.1039198989446748
+    ],
+    "loa_fold_raw": 22.255441567913206,
+    "loa_fold_divided": 22.274161497670676,
+    "median_fold_disagreement": 1.622110097160432,
+    "pearson_r_gap_vs_pmmov_gap": 0.40683264270372493,
+    "pearson_p": 8.030136842901532e-11,
+    "shared_part_cancelled": 0.3312964086525696,
+    "pmmov_noise_added": 0.3318384723775304,
+    "best_possible_removal_r2": 0.1655127991692967
+  },
+  "Influenza A": {
+    "paired_days": 107,
+    "sd_raw": 0.32426131677699854,
+    "sd_divided": 0.37873418429581684,
+    "sd_ratio": 1.1679906442749706,
+    "sd_ratio_ci": [
+      1.0244099929872252,
+      1.3645372305635588
+    ],
+    "loa_fold_raw": 18.668282392115955,
+    "loa_fold_divided": 30.523758051938685,
+    "median_fold_disagreement": 1.5488165012149242,
+    "pearson_r_gap_vs_pmmov_gap": 0.20807734794961916,
+    "pearson_p": 0.03150093084436542,
+    "shared_part_cancelled": 0.17612359731116206,
+    "pmmov_noise_added": 0.5403257424250231,
+    "best_possible_removal_r2": 0.04329618272974688
+  },
+  "Influenza A (CDC rounded field)": {
+    "paired_days": 102,
+    "sd_raw": 0.3257921178446536,
+    "sd_divided": 0.3263901234322008,
+    "sd_ratio": 1.001835543448698,
+    "sd_ratio_ci": [
+      0.907998169487308,
+      1.1225090020813575
+    ],
+    "loa_fold_raw": 18.928016329250937,
+    "loa_fold_divided": 19.030459902360548,
+    "median_fold_disagreement": 1.5462717392318026,
+    "pearson_r_gap_vs_pmmov_gap": 0.3628471565282939,
+    "pearson_p": 0.00017826080593525014,
+    "shared_part_cancelled": 0.2651407030413458,
+    "pmmov_noise_added": 0.26881515915849397,
+    "best_possible_removal_r2": 0.13165805900066824
+  },
+  "RSV shared days / both detected": [
+    248,
+    94
+  ],
+  "SARS-CoV-2 shared days / both detected": [
+    248,
+    238
+  ],
+  "Influenza A shared days / both detected": [
+    242,
+    107
+  ]
+}

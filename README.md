@@ -1,6 +1,6 @@
-# Does dividing by PMMoV fix wastewater data? A check in Las Vegas
+# Does PMMoV Normalization Improve Between-Lab Agreement? A SARS-CoV-2 Test at One Las Vegas Plant
 
-Code and data for the write-up *Does dividing by PMMoV fix wastewater data? A check in my hometown, Las Vegas* (Santi Bent, November 2026).
+Code and data for the write-up *Does PMMoV Normalization Improve Between-Lab Agreement? A SARS-CoV-2 Test at One Las Vegas Plant* (Santi Bent, November 2026).
 
 CDC wastewater site 1179, the Flamingo Water Resource Center in Las Vegas (about 1.25 million people served), was measured on the same days from November 2023 to April 2026 by two separate pipelines: WastewaterSCAN (solids, copies per gram of dry sludge) and CDC/Verily (liquid, copies per litre). This repository asks two questions:
 
